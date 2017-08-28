@@ -6,3 +6,12 @@ body{
 	color: white;
 	background-color: #1D2951;
 }
+.left-header{
+	text-align: left;
+}
+.right-header{
+	text-align: right;
+}
+.panel{
+	background-color: grey;
+}
